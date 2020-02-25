@@ -1,14 +1,15 @@
 # Workout-Tracker
 
+Technology Used:
 
-This assignment will require you to create: 
-> Mongo database with a 
-> Mongoose schema and 
-> handle routes with Express.
----------
+MongoDB and Express.
 
+Discription for Use:
 
-The user should be able to:
-> Add exercises to a previous workout plan.
-> Add new exercises to a new workout plan.
-> View multiple the combined weight of multiple exercises on the stats page.
+When you first get to the page, you will be directed to the continue/add exercise page.
+If you select the Continue Exercise you can continue with the last saved exercise activites and add workout activities to that event.
+If you select the New Workout button, then you will start a new event for the workout where you can add exercises.
+
+Select the Fitness Tracker Dashboard link in the top left courner to view statistics on all your workout events.
+
+Enjoy!
